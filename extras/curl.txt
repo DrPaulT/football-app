@@ -1,0 +1,1 @@
+curl 'https://api.football-data.org/v2/competitions/PL/matches?season=2021&status=FINISHED&dateFrom=2022-03-13&dateTo=2022-03-17' -H 'X-Auth-Token:...'  
